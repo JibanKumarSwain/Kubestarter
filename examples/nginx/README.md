@@ -72,7 +72,7 @@
              image: nginx:latest
    ```
 
-### Nginx Namespace Deployment Steps:
+### Nginx Namespace Deployment Steps:.
 
 1. **Create the "nginx" Namespace:**
 
