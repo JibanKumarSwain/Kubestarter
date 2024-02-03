@@ -7,7 +7,7 @@
 ## Examples with Interview Questions   
                  
 1. [NGINX with Deployment & Service](./examples/nginx)
-2. [MySQL with ConfigMaps, Secrets & Persistent Volumes](./examples/mysql)
+2. [MySQL with ConfigMaps, Secrets & Persistent Volumes](./examples/mysql)     
 
 ## Installation Guides
 
